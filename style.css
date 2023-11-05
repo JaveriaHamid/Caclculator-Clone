@@ -80,8 +80,13 @@ input[type=text]{
 }
 
 @media screen and (max-width: 410px){
-    .container{
+    /*.container{
         width: 66vw;
         height: 76vh;
+    }*/
+
+    .container{
+        width: 70vw;
+        height: 70vh;
     }
 }
