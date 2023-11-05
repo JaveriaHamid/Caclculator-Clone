@@ -79,9 +79,9 @@ input[type=text]{
     outline: none;
 }
 
-@media screen and (max-width: 480px){
+@media screen and (max-width: 410px){
     .container{
-        width: 52vw;
-        height: 74vh;
+        width: 66vw;
+        height: 76vh;
     }
 }
