@@ -10,8 +10,8 @@ html, body{
 }
 
 .container{
-    width: 18vw;
-    height: 56vh;
+    width: 39vw;
+    height: 26vh;
     border: 2px solid black;
     padding: 10px 0;
     background-color: black;
@@ -86,7 +86,7 @@ input[type=text]{
     }*/
 
     .container{
-        width: 70vw;
-        height: 70vh;
+        width: 66vw;
+        height: 75vh;
     }
 }
